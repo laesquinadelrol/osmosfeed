@@ -9,3 +9,5 @@ sources:
   - href: https://www.prismaticwasteland.com/blog?format=rss
   - href: https://newschoolrevolution.com/feed.xml
   - href: https://slowlorispress.com/rss
+
+cacheMaxDays: 30
